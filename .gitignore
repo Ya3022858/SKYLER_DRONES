@@ -1,0 +1,17 @@
+
+# Environment Variables
+.env
+.venv
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac
+.DS_Store
+
+# Streamlit
+.streamlit/
